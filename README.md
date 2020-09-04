@@ -6,3 +6,5 @@ Use the following command in your bash shell.
 ```
 sh run.sh
 ```
+## Options
+Revise `proguard-rule.pro` to add your own obfuscation rules.
